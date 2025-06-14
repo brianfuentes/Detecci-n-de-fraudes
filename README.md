@@ -65,8 +65,7 @@ jupyter==1.0.0
 1. Clona este repositorio:
 
 ```bash
-[https://github.com/brianfuentes/Transtorno-de-sue-o-.git](https://github.com/brianfuentes/Detecci-n-de-fraudes.git)
-```
+gh repo clone brianfuentes/Detecci-n-de-fraudes```
 
 2. Ejecuta los notebooks:
 

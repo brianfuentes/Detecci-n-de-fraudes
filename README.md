@@ -79,24 +79,25 @@ jupyter notebook
 
 ##  Referencias
 
-@misc{ibmFraude2024,
-  title        = {¿Qué es la detección de fraude?},
-  author       = {{IBM Corporation}},
-  year         = {2024},
-  howpublished = {\url{https://www.ibm.com/mx-es/topics/fraud-detection}},
-  note         = {Consultado el 7 de junio de 2025}
-}
-@misc{economipediaRegresion,
-  title        = {Modelo de regresión - Qué es, definición y concepto},
-  author       = {Economipedia},
-  year         = {2024},
-  howpublished = {\url{https://economipedia.com/definiciones/modelo-de-regresion.html}},
-  note         = {Consultado el 7 de junio de 2025}
-}
-@misc{ibmLogistic2025,
-  author       = {{IBM Corporation}},
-  title        = {¿Qué es la regresión logística?},
-  year         = {2025},
-  howpublished = {\url{https://www.ibm.com/mx-es/think/topics/logistic-regression}},
-  note         = {Consultado el 13 de junio de 2025}
-}
+1. IBM Corporation. “¿Qué es la detección de fraude?”
+   Disponible en: [https://www.ibm.com/mx-es/topics/fraud-detection](https://www.ibm.com/mx-es/topics/fraud-detection)
+   Consultado el 13 de junio de 2025.
+
+2. Economipedia. “Modelo de regresión – qué es, definición y concepto.”
+   Disponible en: [https://economipedia.com/definiciones/modelo-de-regresion.html](https://economipedia.com/definiciones/modelo-de-regresion.html)
+   Consultado el 13 de junio de 2025.
+
+3. IBM Corporation. “¿Qué es la regresión logística?”
+   Disponible en: [https://www.ibm.com/mx-es/think/topics/logistic-regression](https://www.ibm.com/mx-es/think/topics/logistic-regression)
+   Consultado el 13 de junio de 2025.
+
+4. Kaggle. “Credit Card Fraud Detection Dataset.”
+   Disponible en: [https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data)
+   Consultado el 13 de junio de 2025.
+
+5. Kharwal, Aman. “Fraud Detection with Machine Learning.”
+   Disponible en: [https://amanxai.com/2020/08/04/fraud-detection-with-machine-learning/](https://amanxai.com/2020/08/04/fraud-detection-with-machine-learning/)
+   Consultado el 13 de junio de 2025.
+
+---
+  

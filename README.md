@@ -29,11 +29,17 @@ El flujo del proyecto consiste en:
 ##  Estructura de Archivos
 
  Data/           → Bases de datos (.csv)
+ 
  SRC/            → Código fuente (scripts, notebooks principales)
+ 
  notebooks/      → Notebook completo 
+ 
  imagenes/       → Capturas de pantalla, gráficas y visualizaciones
+ 
  doc/            → Documentación formal (PDF de la práctica)
+ 
  requirements.txt → Lista de librerías necesarias para correr el proyecto
+ 
  README.md        → Descripción general del proyecto
 
 
@@ -59,7 +65,7 @@ jupyter==1.0.0
 1. Clona este repositorio:
 
 ```bash
-https://github.com/brianfuentes/Transtorno-de-sue-o-.git
+[https://github.com/brianfuentes/Transtorno-de-sue-o-.git](https://github.com/brianfuentes/Detecci-n-de-fraudes.git)
 ```
 
 2. Ejecuta los notebooks:
@@ -69,3 +75,28 @@ jupyter notebook
 ```
 
 3. Explora el notebook principal: `Proyecto final.ipynb`
+
+
+##  Referencias
+
+@misc{ibmFraude2024,
+  title        = {¿Qué es la detección de fraude?},
+  author       = {{IBM Corporation}},
+  year         = {2024},
+  howpublished = {\url{https://www.ibm.com/mx-es/topics/fraud-detection}},
+  note         = {Consultado el 7 de junio de 2025}
+}
+@misc{economipediaRegresion,
+  title        = {Modelo de regresión - Qué es, definición y concepto},
+  author       = {Economipedia},
+  year         = {2024},
+  howpublished = {\url{https://economipedia.com/definiciones/modelo-de-regresion.html}},
+  note         = {Consultado el 7 de junio de 2025}
+}
+@misc{ibmLogistic2025,
+  author       = {{IBM Corporation}},
+  title        = {¿Qué es la regresión logística?},
+  year         = {2025},
+  howpublished = {\url{https://www.ibm.com/mx-es/think/topics/logistic-regression}},
+  note         = {Consultado el 13 de junio de 2025}
+}

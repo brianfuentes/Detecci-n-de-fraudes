@@ -14,7 +14,7 @@ Se realizaron análisis exploratorios, procesamiento de datos, normalización, c
 
 ---
 
-## ⚙️ ¿Cómo Funciona?
+##  ¿Cómo Funciona?
 
 El flujo del proyecto consiste en:
 
@@ -54,3 +54,18 @@ jupyter==1.0.0
 ---
 
 ##  Instrucciones de Configuración
+##  Instrucciones para replicar
+
+1. Clona este repositorio:
+
+```bash
+https://github.com/brianfuentes/Transtorno-de-sue-o-.git
+```
+
+2. Ejecuta los notebooks:
+
+```bash
+jupyter notebook
+```
+
+3. Explora el notebook principal: `Proyecto final.ipynb`
